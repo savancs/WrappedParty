@@ -30,8 +30,8 @@ To run
 
 ## Screenshots
 
-![Top Artists](https://imgur.com/a/waR1fBV)
+![Top Artists](top_artists.png)
 
-![Top Songs](https://imgur.com/a/xeaadj1)
+![Top Songs](top_songs.png)
 
 
