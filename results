@@ -1,0 +1,66 @@
+Loading data from savchers_scrobbles.json...
+Total songs ever scrobbled (All Time): 62,329
+Preprocessing and filtering data...
+Total listens in the last year: 8,223
+Analyzing data from 2024-11-28 to today.
+
+--- Top 10 Artists (Last Year) ---
+ 1. Fall Out Boy                             (1,026 plays) [12.48%]
+ 2. Microwave                                (792 plays) [9.63%]
+ 3. My Chemical Romance                      (721 plays) [8.77%]
+ 4. Hot Mulligan                             (430 plays) [5.23%]
+ 5. Arctic Monkeys                           (408 plays) [4.96%]
+ 6. Pierce the Veil                          (370 plays) [4.50%]
+ 7. Panic! at the Disco                      (323 plays) [3.93%]
+ 8. Three Days Grace                         (288 plays) [3.50%]
+ 9. Lady Gaga                                (230 plays) [2.80%]
+10. Pet Symmetry                             (221 plays) [2.69%]
+
+--- Top 10 Tracks (Songs) (Last Year) ---
+ 1. Drown                                    (38 plays)
+ 2. Nobody Puts Baby in the Corner           (32 plays)
+ 3. Circling the Drain                       (32 plays)
+ 4. Mirrors                                  (31 plays)
+ 5. Let's Start Degeneracy                   (31 plays)
+ 6. but not often,                           (30 plays)
+ 7. The Light Behind Your Eyes               (30 plays)
+ 8. Of All the Gin Joints in All the World   (28 plays)
+ 9. Dance, Dance                             (28 plays)
+10. High                                     (28 plays)
+
+--- Top 10 Albums (Last Year) ---
+ 1. From Under the Cork Tree                 (299 plays)
+ 2. Folie à deux                             (256 plays)
+ 3. Death is a Warm Blanket                  (235 plays)
+ 4. Favourite Worst Nightmare (Standard Version) (204 plays)
+ 5. Infinity on High                         (195 plays)
+ 6. The Sound A Body Makes When It's Still   (180 plays)
+ 7. Selfish Machines                         (177 plays)
+ 8. Three Cheers for Sweet Revenge           (172 plays)
+ 9. Let's Start Degeneracy                   (162 plays)
+10. Much Love                                (149 plays)
+
+DEBUG: Historical unique artists (pre-2024-11-28): 3,529
+DEBUG: Recent unique artists (post-2024-11-28): 372
+
+--- New Artists Discovered this Year ---
+Total new artists found: 79
+
+Here are a few artists you found this year:
+1. Sir Chloe                                (First play: 2025-08-04, 1 plays)
+2. The Microphones                          (First play: 2025-03-04, 11 plays)
+3. Kevin Rudolf                             (First play: 2025-02-08, 1 plays)
+4. Pixies                                   (First play: 2025-04-22, 1 plays)
+5. Sheryl Crow                              (First play: 2025-04-10, 3 plays)
+
+--- Top 10 Artists (All Time) ---
+ 1. Microwave                                (5,422 plays) [8.70% of all scrobbles]
+ 2. Kings Kaleidoscope                       (4,064 plays) [6.52% of all scrobbles]
+ 3. Kanye West                               (3,326 plays) [5.34% of all scrobbles]
+ 4. Mom Jeans.                               (2,646 plays) [4.25% of all scrobbles]
+ 5. Fall Out Boy                             (2,531 plays) [4.06% of all scrobbles]
+ 6. Hot Mulligan                             (2,061 plays) [3.31% of all scrobbles]
+ 7. Panic! at the Disco                      (1,564 plays) [2.51% of all scrobbles]
+ 8. Dbmk                                     (1,445 plays) [2.32% of all scrobbles]
+ 9. My Chemical Romance                      (1,341 plays) [2.15% of all scrobbles]
+10. Arctic Monkeys                           (1,255 plays) [2.01% of all scrobbles]
